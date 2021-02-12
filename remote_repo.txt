@@ -1,1 +1,3 @@
-this is my first line for remote repo assignment.
+
+i used cat > remote_repo.txt but my first line was gone.[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dand[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+should have used cat >> remote_repo.txt to append.
